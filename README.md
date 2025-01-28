@@ -9,6 +9,8 @@ sudo apt update
 
 sudo apt install jenkins -y
 
+sudo apt install -y openjdk-17-jre
+
 sudo systemctl start jenkins
 
 sudo systemctl status jenkins
