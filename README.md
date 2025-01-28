@@ -17,10 +17,22 @@ sudo systemctl status jenkins
 ```
 
 ## 
-Pipeline setup
+Pipelines
+
+* https://github.com/TheEarlOfGray/simpleflaskapp
+```
+sudo apt install python3-pip
+```
+```
+pip install -r requirements.txt
+python3 app.py
+```
+
+* https://github.com/QA-Instructor/lbg-vat-calculator
 ```
 sudo apt install -y npm nodejs
 ```
-
-* https://github.com/TheEarlOfGray/simpleflaskapp
-* https://github.com/QA-Instructor/lbg-vat-calculator
+```
+npm install
+npm start
+```
