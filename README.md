@@ -15,3 +15,6 @@ sudo systemctl start jenkins
 
 sudo systemctl status jenkins
 ```
+
+https://github.com/TheEarlOfGray/simpleflaskapp
+https://github.com/QA-Instructor/lbg-vat-calculator
